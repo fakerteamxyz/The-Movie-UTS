@@ -25,4 +25,6 @@ With this app you can get information about movies and TV series, watch trailer,
 
 Contributions are welcome! Whether you're fixing a bug, implementing a new feature, or enhancing the documentation, your efforts are appreciated.
 
+THANKS
+
 
