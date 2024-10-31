@@ -20,7 +20,7 @@ With this app you can get information about movies and TV series, watch trailer,
 
 1.To explore and contribute to *The Movies Info* app, follow these steps:
 2.clone this repository
-2.Explore the codebase, contribute enhancements, and share your feedback.
+3.Explore the codebase, contribute enhancements, and share your feedback.
 
 
 Contributions are welcome! Whether you're fixing a bug, implementing a new feature, or enhancing the documentation, your efforts are appreciated.
